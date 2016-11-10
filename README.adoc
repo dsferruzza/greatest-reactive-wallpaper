@@ -6,6 +6,7 @@ The greatest wallpaper for people who love reactive programming
 
 * great wallpaper released during http://blog.thomasbelin.fr/talks/reactive-programming/[a real (and nice) conference about Reactive Programming]
 * scalable, 19:8 ratio (approximately)
+* lightweight (346 kB only!)
 * suitable for colorblind people
 * not suitable for blind people
 * suitable for PHP developers
