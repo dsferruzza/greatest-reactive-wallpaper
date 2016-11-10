@@ -5,7 +5,7 @@ The greatest wallpaper for people who love reactive programming
 == Features
 
 * great wallpaper released during http://blog.thomasbelin.fr/talks/reactive-programming/[a real (and nice) conference about Reactive Programming]
-* scalable (19:8 ratio)
+* scalable, 19:8 ratio (approximately)
 * suitable for colorblind people
 * not suitable for blind people
 * suitable for PHP people
@@ -14,7 +14,7 @@ The greatest wallpaper for people who love reactive programming
 
 == The Wallpaper
 
-image::greatest-reactive-wallpaper.svg[]
+image::greatest-reactive-wallpaper.png[link="greatest-reactive-wallpaper.svg"]
 
 == License and legal stuff
 
