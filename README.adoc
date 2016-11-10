@@ -17,6 +17,17 @@ image::greatest-reactive-wallpaper.png[link="greatest-reactive-wallpaper.svg"]
 * printable on a paper (to impress your friends AFK)
 * not suitable for people who love yellow (or physics)
 
+== Testimonials
+
+[quote]
+This wallpaper really changed the way I use Observables. I just can't go back to that boring canyon images. -- Albert Einstein
+
+[quote]
+I love the headset of the main character. It looks like a weird haircut ^^ -- Steve Jobs
+
+[quote]
+Un voyage poétique comme vous n'en avez jamais vu au coeur de la programmation réactive -- Télérama
+
 == License and legal stuff
 
 This wallpaper actually belongs to https://twitter.com/atomrc[@atomrc].
