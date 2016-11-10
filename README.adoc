@@ -8,7 +8,7 @@ The greatest wallpaper for people who love reactive programming
 * scalable, 19:8 ratio (approximately)
 * suitable for colorblind people
 * not suitable for blind people
-* suitable for PHP people
+* suitable for PHP developers
 * printable on a paper (to impress your friends AFK)
 * not suitable for people who love yellow (or physics)
 
