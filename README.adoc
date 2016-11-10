@@ -2,6 +2,10 @@
 
 The greatest wallpaper for people who love reactive programming
 
+== The Wallpaper
+
+image::greatest-reactive-wallpaper.png[link="greatest-reactive-wallpaper.svg"]
+
 == Features
 
 * great wallpaper released during http://blog.thomasbelin.fr/talks/reactive-programming/[a real (and nice) conference about Reactive Programming]
@@ -12,10 +16,6 @@ The greatest wallpaper for people who love reactive programming
 * suitable for PHP developers
 * printable on a paper (to impress your friends AFK)
 * not suitable for people who love yellow (or physics)
-
-== The Wallpaper
-
-image::greatest-reactive-wallpaper.png[link="greatest-reactive-wallpaper.svg"]
 
 == License and legal stuff
 
